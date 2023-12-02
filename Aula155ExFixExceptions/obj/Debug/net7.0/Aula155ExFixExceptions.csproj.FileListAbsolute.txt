@@ -1,0 +1,14 @@
+D:\Microsoft Visual Studio\Projetos\Aula155ExFixExceptions\Aula155ExFixExceptions\bin\Debug\net7.0\Aula155ExFixExceptions.exe
+D:\Microsoft Visual Studio\Projetos\Aula155ExFixExceptions\Aula155ExFixExceptions\bin\Debug\net7.0\Aula155ExFixExceptions.deps.json
+D:\Microsoft Visual Studio\Projetos\Aula155ExFixExceptions\Aula155ExFixExceptions\bin\Debug\net7.0\Aula155ExFixExceptions.runtimeconfig.json
+D:\Microsoft Visual Studio\Projetos\Aula155ExFixExceptions\Aula155ExFixExceptions\bin\Debug\net7.0\Aula155ExFixExceptions.dll
+D:\Microsoft Visual Studio\Projetos\Aula155ExFixExceptions\Aula155ExFixExceptions\bin\Debug\net7.0\Aula155ExFixExceptions.pdb
+D:\Microsoft Visual Studio\Projetos\Aula155ExFixExceptions\Aula155ExFixExceptions\obj\Debug\net7.0\Aula155ExFixExceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Microsoft Visual Studio\Projetos\Aula155ExFixExceptions\Aula155ExFixExceptions\obj\Debug\net7.0\Aula155ExFixExceptions.AssemblyInfoInputs.cache
+D:\Microsoft Visual Studio\Projetos\Aula155ExFixExceptions\Aula155ExFixExceptions\obj\Debug\net7.0\Aula155ExFixExceptions.AssemblyInfo.cs
+D:\Microsoft Visual Studio\Projetos\Aula155ExFixExceptions\Aula155ExFixExceptions\obj\Debug\net7.0\Aula155ExFixExceptions.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\Projetos\Aula155ExFixExceptions\Aula155ExFixExceptions\obj\Debug\net7.0\Aula155ExFixExceptions.dll
+D:\Microsoft Visual Studio\Projetos\Aula155ExFixExceptions\Aula155ExFixExceptions\obj\Debug\net7.0\refint\Aula155ExFixExceptions.dll
+D:\Microsoft Visual Studio\Projetos\Aula155ExFixExceptions\Aula155ExFixExceptions\obj\Debug\net7.0\Aula155ExFixExceptions.pdb
+D:\Microsoft Visual Studio\Projetos\Aula155ExFixExceptions\Aula155ExFixExceptions\obj\Debug\net7.0\Aula155ExFixExceptions.genruntimeconfig.cache
+D:\Microsoft Visual Studio\Projetos\Aula155ExFixExceptions\Aula155ExFixExceptions\obj\Debug\net7.0\ref\Aula155ExFixExceptions.dll
